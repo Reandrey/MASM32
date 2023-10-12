@@ -6,6 +6,6 @@ public:
     int y= 2;
 };
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, Tom!" << std::endl;
     return 0;
 }
